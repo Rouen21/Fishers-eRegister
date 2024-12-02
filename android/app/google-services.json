@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341740086472",
+    "project_id": "sea-innovators",
+    "storage_bucket": "sea-innovators.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341740086472:android:0c2932d265c6c422c2f1fd",
+        "android_client_info": {
+          "package_name": "com.example.fishers_e_register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7eOGqJ96X-xfZ9IxqOx1g7VXnkknd8lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
